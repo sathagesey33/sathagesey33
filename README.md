@@ -1,5 +1,5 @@
 ### Hi I AM SATHA GESEY 👋
-I am a passionate backend developer with a strong focus on building robust and scalable web applications.
+ A passionate backend developer with a strong focus on building robust and scalable web applications.
 My expertise lies in designing and implementing efficient server-side architectures, crafting APIs for seamless data communication, and optimizing database performance for high-traffic applications.
 
 <!--
@@ -7,7 +7,7 @@ My expertise lies in designing and implementing efficient server-side architectu
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on https://mamas-joy.onrender.com/
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
