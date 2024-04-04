@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I AM SATHA GESEY 👋
+I am a passionate backend developer with a strong focus on building robust and scalable web applications.
+My expertise lies in designing and implementing efficient server-side architectures, crafting APIs for seamless data communication, and optimizing database performance for high-traffic applications.
 
 <!--
 **sathagesey33/sathagesey33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
