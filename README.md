@@ -1,5 +1,5 @@
 ### Hi I AM SATHA GESEY 👋
- A passionate backend developer with a strong focus on building robust and scalable web applications.
+ A passionate backend engineer with a strong focus on building robust and scalable web applications.
 My expertise lies in designing and implementing efficient server-side architectures, crafting APIs for seamless data communication, and optimizing database performance for high-traffic applications.
 
 With a keen eye for detail and a dedication to writing clean, maintainable code, I thrive in collaborative environments where I can contribute my skills to deliver exceptional user experiences.
